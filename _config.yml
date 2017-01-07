@@ -4,7 +4,7 @@
 
 # Site
 title: ZengXiangRui's Blog
-subtitle: To Be A Lean Developer!
+subtitle: To Be A Great Developer!
 author: Xiangrui Zeng
 language:
 timezone:
@@ -28,11 +28,11 @@ keyword: ""
 
 # SNS settings
 # RSS: false
-weibo_username:     ZengXR
+weibo_username:     xiangruizengR
 zhihu_username:     xr-zeng
 github_username:    xiangrui-zeng
 twitter_username:   Shel_Rain
-facebook_username:  Xiangrui Zeng
+facebook_username:  zengxiangrui.io 
 linkedin_username:  
 
 # Build settings
