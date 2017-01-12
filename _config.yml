@@ -28,7 +28,7 @@ keyword: ""
 
 # SNS settings
 # RSS: false
-weibo_username:     xiangruizengR
+weibo_username:     xiangruizeng
 zhihu_username:     xr-zeng
 github_username:    xiangrui-zeng
 twitter_username:   Shel_Rain
@@ -40,7 +40,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 
 # Disqus settings
-disqus_username: blog
+disqus_username: xiangrui-zeng-blog 
 
 # Duoshuo settings
 # duoshuo_username: kaijun
@@ -58,7 +58,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "为梦想而生！"
+sidebar-about-description: "为梦想而活！"
 sidebar-avatar: img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

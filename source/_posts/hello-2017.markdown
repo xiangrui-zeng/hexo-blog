@@ -4,7 +4,7 @@ title:      "My First Blog"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2017-01-06 18:00:00
 author:     "Xiangrui Zeng"
-header-img: "post-bg-2015.jpg"
+header-img: "post-bg-2017.jpg"
 tags:
     - 生活
 ---
